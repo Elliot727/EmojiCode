@@ -1,0 +1,51 @@
+🏁 🍇
+  0 ➡️ a
+  0 ➡️ b
+  🍿🔤tree🔤 🔤bee🔤 🔤lee🔤 🔤me🔤🍆 ➡️ list
+
+
+  💭 Checks to see if a is greater than b
+  ↪️ a ▶️ b 🍇
+    😀 🔤a is greater than b🔤❗️
+  🍉
+
+  💭 Checks if a and b are equal
+  🙅↪️ a 🙌 b 🍇
+    😀 🔤a is equal to b🔤❗️
+  🍉
+
+  💭 Checks if b is greater than a
+  🙅 🍇
+  😀 🔤a is not greater than b🔤❗️
+    🍉
+
+  💭 Iterates over a list
+  🔂 name list 🍇
+    😀 name❗️
+  🍉
+
+  💭 Prints numbers 0 through 8 (including)
+  🔂 i 🆕⏩ 0 10 2❗️ 🍇
+    😀 🔡 i❗️❗️
+  🍉
+
+  💭 Prints numbers 0 through 9 (including)
+  🔂 i 🆕⏩ 0 10❗️ 🍇
+    😀 🔡 i❗️❗️
+  🍉
+
+  💭 Prints numbers 10 through 1 (including)
+  🔂 i 🆕⏩ 10 0❗️ 🍇
+    😀 🔡 i❗️❗️
+  🍉
+
+  💭 Prints numbers 100 through 0 (including)
+  🔂 i 🆕⏩ 100 -10 -10❗️ 🍇
+    😀 🔡 i❗️❗️
+  🍉
+
+  💭 Repeats until a condition is statisfied
+  🔁 👍 🍇
+    😀 🔤It goes on and on and on🔤❗️
+  🍉
+🍉

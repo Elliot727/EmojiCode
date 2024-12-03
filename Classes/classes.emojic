@@ -1,0 +1,35 @@
+  💭 We can define a class like so
+  🐇 👤 🍇
+    🖍🆕 name 🔡
+    🖍🆕 age 🔢
+
+      💭 Constructuor
+    🆕 🍼 name 🔡 🍼 age 🔢 🍇
+    🍉
+
+    💭 Methods
+    ❗️ 🎤 🍇
+      😀 🔤Hello, my name is 🧲name🧲 and I am 🧲🔡age❗️🧲 years old.🔤❗️
+    🍉
+
+    ❓ 🎂 ➡️ 👌 🍇
+      ↩️ age ▶️ 18
+    🍉
+
+    ❗️ 🎂 additional_years 🔢 🍇
+      age ⬅️➕ additional_years
+    🍉
+  🍉
+
+💭 We can then use the class like so
+🏁 🍇
+  🆕👤 🔤Alice🔤 25❗️ ➡️ person1
+  🎤 person1❗️
+
+  ↪️ 🎂 person1❓ 🍇
+    😀 🔤Person is an adult.🔤❗️
+  🍉
+
+  🎂 person1 5❗️
+  🎤 person1❗️
+🍉

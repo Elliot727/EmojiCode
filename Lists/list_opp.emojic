@@ -1,0 +1,32 @@
+🏁 🍇
+  💭 Creates an empty list of integers
+  🆕🍨🐚🔢🍆❗️ ➡️ 🖍🆕numbers
+  💭 adds three integers to the (numbers) list
+  🐻 numbers 10❗️
+  🐻 numbers 20❗️
+  🐻 numbers 30❗️
+
+  💭 Creates an empty list of strings
+  🆕🍨🐚🔡🍆❗️ ➡️ 🖍🆕letters
+  💭 adds three strings to the (letters) list
+  🐻 letters 🔤a🔤❗️
+  🐻 letters 🔤b🔤❗️
+  🐻 letters 🔤c🔤❗️
+
+  💭 Removes the last item from a list (🍺 is to safley unwrap)
+  🍺🐼numbers❗️ ➡️ number
+  😀 🔤The last item of the list is 🧲number🧲🔤❗️
+  🍺🐼letters❗️ ➡️ letter
+  😀 🔤The last item of the list is 🧲letter🧲🔤❗️
+
+  💭 Counts all items in our lists (now 2)
+  0 ➡️ 🖍🆕count
+  🔂 item numbers 🍇
+    count ⬅️➕ 1
+  🍉
+  😀 🔤The length of the list is 🧲count🧲🔤❗️
+
+  💭 Prints the 0th item from the list
+  😀 🔡🐽numbers 0❗️❗️❗️
+  😀 🐽 letters 0❗️❗️
+🍉

@@ -1,0 +1,81 @@
+🏁 🍇
+  🔤  Hello, Emojicode!  🔤 ➡️ originalString
+  🔤apple,banana,cherry🔤 ➡️ fruitsString
+  🔤Hello, Emojicode!🔤 ➡️ testString
+  🔤Hello, Emojicode! Welcome to Emojicode programming!🔤 ➡️ fullString
+  🔤Emojicode🔤 ➡️ searchString
+  🔤Apple🔤 ➡️ firstString
+  🔤Banana🔤 ➡️ secondString
+  0 ➡️ offset
+
+  💭 Trims whitespace from a string
+  😀 🔤Original string: '🧲originalString🧲'🔤❗️
+  🔧originalString❗️ ➡️ trimmedString
+  😀 🔤Trimmed string: '🧲trimmedString🧲'🔤❗️
+
+  💭 Splits a list based on a specific character
+  🔫fruitsString 🔤,🔤❗️ ➡️ fruitsList
+  😀 🔤Split fruits:🔤❗️
+  🔂 fruit fruitsList 🍇
+    😀 🔡fruit❗️❗️
+  🍉
+  💭 Checks if a string starts with "Hello"
+  🎼testString 🔤Hello🔤❗️ ➡️ startsWithHello
+    ↪️ startsWithHello 🍇
+    😀 🔤The string starts with "Hello".🔤❗️
+  🍉
+  🙅 🍇
+    😀 🔤The string does not start with "Hello".🔤❗️
+  🍉
+
+  💭 Checks if a ends starts with "Hello"
+  ⛳testString 🔤Emojicode!🔤❗️ ➡️ endsWithEmojicode
+  ↪️ endsWithEmojicode 🍇
+    😀 🔤The string ends with "Emojicode!".🔤❗️
+  🍉
+  🙅 🍇
+    😀 🔤The string does not end with "Emojicode!".🔤❗️
+  🍉
+
+  💭 Finds the indexes of the substring after the offset
+  🕵‍♀fullString searchString offset❗️ ➡️ foundIndex
+
+  ↪️ 🍺 foundIndex ▶️ -1 🍇
+
+    😀 🔤Found "Emojicode" at index:  🧲🍺 foundIndex🧲 🔤 ❗️
+  🍉
+  🙅 🍇
+    😀 🔤"Emojicode" not found after index: 🧲offset🧲🔤❗️
+  🍉
+
+  💭 Finds the first index of the substring after the offset
+  🔍fullString searchString❗️ ➡️ foundIndex1
+  ↪️ 🍺 foundIndex1 ▶️ -1 🍇
+    😀 🔤Found "Emojicode" at index:  🧲🍺 foundIndex1🧲 🔤 ❗️
+  🍉
+  🙅 🍇
+    😀 🔤"Emojicode" not found after index: 🧲offset🧲🔤❗️
+  🍉
+
+   💭 Extracts a substring starting from a specified index and of a specified length
+  😀 🔪🔤Apples🔤 2 4❗️❗️
+
+
+  💭 Compares the two strings
+    ↔firstString secondString❗️ ➡️ comparisonResult
+
+  ↪️ comparisonResult 🙌 0 🍇
+    😀 🔤The strings are equal.🔤❗️
+  🍉
+
+  ↪️ comparisonResult 🙌 -1 🍇
+    😀 🔤First string is less than the second string.🔤❗️
+  🍉
+
+  ↪️ comparisonResult 🙌 1 🍇
+    😀 🔤First string is greater than the second string.🔤❗️
+  🍉
+  😀 📫🔤uppercase🔤❗️❗️
+  😀 📪🔤LOWERCASE🔤❗️❗️
+
+🍉
